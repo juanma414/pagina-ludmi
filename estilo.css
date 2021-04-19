@@ -1,0 +1,54 @@
+
+
+.title {
+
+	background-color: #D3D3D3;
+	width: 100%;
+
+	color: #1D5B1D;
+	font-size: 2em;
+	font-family: poppins, cursive;
+	padding: 7px;
+
+	
+}
+.article {
+	color: #006400;
+	font-size: large;
+	font-family:poppins, sans-serif;
+	background-color: #FFAD30;
+
+}
+.barrainicio{
+	background-color: grey;
+	font-size: 1em;
+	text-align: justify;
+	margin-top: 0px;
+	height: 50px;
+	width: 100%;
+	color: white;
+	display: inline-block;
+	
+
+
+}
+.barrainicio a{
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding-left: 3px;
+	padding-right: 10px;
+
+}
+
+.barrainicio i{
+	text-align: center;
+	width: 7px;
+	box-sizing: border-box;
+	padding: 20px;
+
+}
+#ludmi {
+	width: 100px; height: 100px;
+}
+
